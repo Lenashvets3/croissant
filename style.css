@@ -1,0 +1,32 @@
+body {
+  background: rgb(246, 239, 160);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+div {
+  text-align: center;
+}
+
+div a {
+  color: green;
+  margin: 0 12px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: underline;
+}
